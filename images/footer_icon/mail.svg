@@ -1,0 +1,10 @@
+<svg width="35" height="29" viewBox="0 0 35 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_322_590" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="29">
+<path id="Vector" d="M31.5 0.220703H3.5C1.575 0.220703 0.0175 1.7957 0.0175 3.7207L0 24.7207C0 26.6457 1.575 28.2207 3.5 28.2207H31.5C33.425 28.2207 35 26.6457 35 24.7207V3.7207C35 1.7957 33.425 0.220703 31.5 0.220703ZM31.5 7.2207L17.5 15.9707L3.5 7.2207V3.7207L17.5 12.4707L31.5 3.7207V7.2207Z" fill="black"/>
+</mask>
+<g mask="url(#mask0_322_590)">
+<circle id="Ellipse 17" cx="17.342" cy="14.0629" r="30.81" fill="#CAE7CF"/>
+</g>
+</g>
+</svg>
